@@ -1,4 +1,4 @@
-# Human Brain Gene Regulatory Network Analysis (GSE5281) — Example Project
+# Human Brain Gene Regulatory Network Analysis (GSE5281)
 
 **Note:** This repository contains results created for demonstration and presentation purposes. The plots and hub genes below are generated from a simulated expression matrix.
 
